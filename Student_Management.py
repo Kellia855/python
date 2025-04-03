@@ -104,7 +104,7 @@ class StudentManagementSystem:
             elif choice == '3':
                 self.delete_student()
             elif choice == '4':
-                self.search_student()  # ✅ Fixed the function call
+                self.search_student()  # Fixed the function call
             elif choice == '5':
                 self.track_attendance()
             elif choice == '6':
